@@ -27,5 +27,5 @@ deals with the maintenance of drugs and consumables in the pharmacy unit. This p
 ## How to run a Project 
 
 - Poplulate the Data in MySql
-- Edit **app.py** file with the name of Database and its corresponding MySql Connection
+- Edit **database.py** file with the name of Database and its corresponding MySql Connection
 - In Terminal run `python3 app.py`
